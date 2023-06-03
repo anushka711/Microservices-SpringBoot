@@ -1,0 +1,5 @@
+package com.demo.employee.service.model;
+
+public class Employee {
+
+}

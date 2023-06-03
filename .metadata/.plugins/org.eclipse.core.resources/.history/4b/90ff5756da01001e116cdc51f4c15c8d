@@ -1,0 +1,27 @@
+'-':
+- 'id: employee-service'
+- Path=/employee/**
+- 'id: department-service'
+- Path=/department/**
+application: ''
+client: ''
+cloud: ''
+config: ''
+defaultZone: http://localhost:8761/eureka/
+eureka: ''
+gateway: ''
+import: '"optional:configserver:http://localhost:8088"'
+management: ''
+name: api-gateway
+port: 8060
+predicates: ''
+probability: 1.0
+routes: ''
+sampling: ''
+server: ''
+serviceUrl: ''
+spring: ''
+tracing: ''
+uri:
+- lb://employee-service
+- lb://department-service
