@@ -8,3 +8,4 @@ The following are the microservices created as a part of this project :
 6. Department Server
 
 The Employee & Department Server interact with each other using HttpExchange
+Zipkin link to check logs : http://localhost:9411/zipkin
