@@ -1,5 +1,0 @@
-package com.demo.department.service;
-
-public class DepartmentServiceImpl implements DepartmentService{
-
-}

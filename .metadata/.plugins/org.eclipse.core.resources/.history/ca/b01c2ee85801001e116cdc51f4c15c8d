@@ -1,7 +1,0 @@
-package com.demo.department.service.config;
-
-@Configuration
-
-public class WebClientConfig {
-
-}

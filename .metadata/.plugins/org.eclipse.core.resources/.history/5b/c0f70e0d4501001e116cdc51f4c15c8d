@@ -1,9 +1,0 @@
-package com.demo.employee.service.model;
-
-public class Employee {
-	Long id;
-	Long departmentId;
-	String name;
-	int age;
-	String position;
-}

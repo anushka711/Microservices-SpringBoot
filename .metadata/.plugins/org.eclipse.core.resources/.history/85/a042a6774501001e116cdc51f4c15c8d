@@ -1,6 +1,0 @@
-package com.demo.employee.service.repository;
-
-public interface EmployeeRepository {
-
-
-}
